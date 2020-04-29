@@ -176,13 +176,13 @@ var _interopRequireDefault = __webpack_require__(1);
 
 exports.__esModule = true;
 
-var _enUS = _interopRequireDefault(__webpack_require__(5));
-
-exports.enUS = _enUS.default;
-
 var _viVN = _interopRequireDefault(__webpack_require__(9));
 
 exports.viVN = _viVN.default;
+
+var _enUS = _interopRequireDefault(__webpack_require__(5));
+
+exports.enUS = _enUS.default;
 
 /***/ }),
 /* 9 */

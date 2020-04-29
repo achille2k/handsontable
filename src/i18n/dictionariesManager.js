@@ -1,7 +1,7 @@
 import { isObject, deepClone } from '../helpers/object';
 import { extendNotExistingKeys } from './utils';
 import staticRegister from '../utils/staticRegister';
-import DEFAULT_DICTIONARY from './languages/en-US';
+import DEFAULT_DICTIONARY from './languages/vi-VN';
 
 const DEFAULT_LANGUAGE_CODE = DEFAULT_DICTIONARY.languageCode;
 
