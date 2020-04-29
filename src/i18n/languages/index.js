@@ -14,6 +14,7 @@ import nlNL from './nl-NL';
 import plPL from './pl-PL';
 import ptBR from './pt-BR';
 import ruRU from './ru-RU';
+import viVN from './vi-VN';
 import zhCN from './zh-CN';
 import zhTW from './zh-TW';
 
@@ -32,6 +33,7 @@ export {
   plPL,
   ptBR,
   ruRU,
+  viVN,
   zhCN,
   zhTW
 };
