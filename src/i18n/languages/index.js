@@ -1,9 +1,9 @@
 /* eslint-disable import/prefer-default-export */
 
-import deCH from './de-CH';
-import deDE from './de-DE';
+/*import deCH from './de-CH';
+import deDE from './de-DE';*/
 import enUS from './en-US';
-import esMX from './es-MX';
+/*import esMX from './es-MX';
 import frFR from './fr-FR';
 import itIT from './it-IT';
 import jaJP from './ja-JP';
@@ -13,16 +13,16 @@ import nbNO from './nb-NO';
 import nlNL from './nl-NL';
 import plPL from './pl-PL';
 import ptBR from './pt-BR';
-import ruRU from './ru-RU';
+import ruRU from './ru-RU';*/
 import viVN from './vi-VN';
-import zhCN from './zh-CN';
-import zhTW from './zh-TW';
+/*import zhCN from './zh-CN';
+import zhTW from './zh-TW';*/
 
 export {
-  deCH,
-  deDE,
+  /*deCH,
+  deDE,*/
   enUS,
-  esMX,
+  /*esMX,
   frFR,
   itIT,
   jaJP,
@@ -32,8 +32,8 @@ export {
   nlNL,
   plPL,
   ptBR,
-  ruRU,
-  viVN,
+  ruRU,*/
+  viVN/*,
   zhCN,
-  zhTW
+  zhTW*/
 };
