@@ -1,16 +1,16 @@
 {
-  "name": "handsontablevn",
+  "name": "handsontable-vn",
   "description": "Handsontable is a JavaScript Spreadsheet Component available for React, Angular and Vue.",
   "homepage": "https://handsontable.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/handsontable/handsontable.git"
+    "url": "git+https://github.com/handsontable/handsontable.git"
   },
   "bugs": {
     "url": "https://github.com/handsontable/handsontable/issues"
   },
   "author": "Handsoncode <hello@handsontable.com>",
-  "version": "7.4.2",
+  "version": "7.4.1",
   "main": "commonjs/index.js",
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
@@ -150,5 +150,9 @@
       "\\.css$": "<rootDir>/test/__mocks__/styleMock.js"
     }
   },
-  "typings": "./handsontable.d.ts"
+  "typings": "./handsontable.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
 }
